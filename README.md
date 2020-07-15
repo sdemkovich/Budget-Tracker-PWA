@@ -1,4 +1,4 @@
-# Budget-Tracker-PWA (https://herokuapp.com/)
+# Budget-Tracker-PWA ()
 
 ## Description
 Budget Tracker is a progressive web application that allows the user to track their finances, 
@@ -11,11 +11,7 @@ add an expense or deposit, which is stored in their local IndexedDB database. Wh
 those transactions are posted from their IndexedDB database to their MongoDB database. Their total budget is then updated, 
 and their IndexedDB pending object store is cleared.
 
-<p float="left">
-<img src="./public/images/add.png" alt="Dashboard Image" height="145px" style="margin: 10px;"/>
-<img src="./public/images/table.png" alt="Homepage Image" height="145px" style="margin: 10px;"/>
-<img src="./public/images/chart.png" alt="Login Page Image" height="145px" style="margin: 10px;"/>
-</p>
+
 
 ## Table of Contents
 * [Technologies](#technologies)
@@ -38,7 +34,7 @@ and their IndexedDB pending object store is cleared.
 * Cache API
 
 ## Usage
-* Navigate to the [deployed Heroku App](https://jp-pwa-budget.herokuapp.com/).
+* Navigate to the [deployed Heroku App]().
 * Enter a transaction name and amount, choose whether the transaction is a deposit (add funds) or an expense (subtract funds).
 * View a table containing past transactions.
 * View a chart that tracks your total budget over time.
@@ -49,9 +45,9 @@ and their IndexedDB pending object store is cleared.
     * Open your browsers' Dev Tools --> Application --> Service Workers --> Check the "Offline" box.
 
 ## Finished Product
-View deployed Heroku app [here](https://herokuapp.com/). <br>
+View deployed Heroku app [here](). <br>
 
-![](/public/images/pwa-budget.gif)
+![](
 
 ## Directions for Future Development
 While this application does successfully allow for the user to add and view expenses while they're offline, I think it would be useful for them to be able to delete and update expenses as well. In the future I would do so using the same process as described in the [description](#description) above.
