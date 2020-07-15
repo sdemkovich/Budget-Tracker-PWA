@@ -1,4 +1,4 @@
-# Budget-Tracker-PWA(https://sd-budget-tracker-pwa.herokuapp.com/)
+# [Budget-Tracker-PWA](https://sd-budget-tracker-pwa.herokuapp.com/)
 
 ## Description
 Budget Tracker is a progressive web application that allows the user to track their finances, 
