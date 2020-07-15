@@ -1,4 +1,4 @@
-# [Budget-Tracker-PWA](https://sd-budget-tracker-pwa.herokuapp.com/)
+# [Budget-Tracker-PWA](https://sd-budget-tracker-pwa1.herokuapp.com/)
 
 ## Description
 Budget Tracker is a progressive web application that allows the user to track their finances, 
@@ -30,7 +30,7 @@ and their IndexedDB pending object store is cleared.
 * Cache API
 
 ## Usage
-* Navigate to the [deployed Heroku App](https://sd-budget-tracker-pwa.herokuapp.com/).
+* Navigate to the [deployed Heroku App](https://sd-budget-tracker-pwa1.herokuapp.com/).
 * Enter a transaction name and amount. Choose to add or subtract funds.
 * The table shows previously entered transactions.
 * View a chart to tracks the total budget over the time.
@@ -41,7 +41,7 @@ and their IndexedDB pending object store is cleared.
     * Open your browsers' Dev Tools --> Application --> Service Workers --> Check the "Offline" box.
 
 ## Finished Product
-View deployed Heroku app [here](https://sd-budget-tracker-pwa.herokuapp.com/). <br>
+View deployed Heroku app [here](https://sd-budget-tracker-pwa1.herokuapp.com/). <br>
 
 ![](
 
